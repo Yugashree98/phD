@@ -10,7 +10,7 @@ public class InternalStorage {
 			
 		}
 		public void audioFiles() {
-			System.out.println("5gb");
+			System.out.println("8gb");
 		}
 		
 		
